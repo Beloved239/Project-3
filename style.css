@@ -1,0 +1,117 @@
+body{
+    background: rb(13, 25, 43);
+    margin: 0px;
+    position: relative;
+    align-items: center;
+
+}
+.container{
+    background: rgb(13, 25, 43);
+    width: 100%;
+    height: 900px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    position: relative;
+
+   
+}
+.card-container{
+    background: rgb(13, 25, 43);
+    width: 414px;
+    height: 500px;
+    align-items: ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: ;
+
+}
+.content-container{
+    background: rgb(20, 37, 61);
+    width: 300px;
+    height: 500px;
+    border-radius: 15px;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+.img{
+    width: 87%;
+    height: 250px;
+    margin-left: 20px;
+    margin-top: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    margin-left: 20px;
+    font-size: 19px;
+}
+p{
+    margin-left: 20px;
+    align-items: left;
+    color: grey;
+    font-size: 18px;
+}
+hr{ 
+    width: 88%;
+    border: 1px solid;
+    border-color:grey;
+    margin-top: 0px;
+}
+h2{
+    color: grey;
+    align-items: left;
+    margin-left: 15px;
+    margin-top: 8px;
+    font-size: 14px;
+    display: inline-block;
+}
+.coin{
+    vertical-align: super;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 80px;
+}
+.img2{
+    width: 10%;
+    float: left;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: px;
+}
+l1{
+    margin-left: 20px;
+    color: #33FFBD;
+    margin-top: 20px;
+    padding-top: 20px;
+    margin-left: 0px;
+}
+l2{
+    color: grey;
+    float: right;
+    margin-right: 20px;
+    margin-left: 0px;
+
+}
+ul{
+    margin-left: -16px;
+    width: ;
+    height: 40px;
+    justify-content: center;
+    padding-top: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.bottom-container{
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    display: flex;
+}
